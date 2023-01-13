@@ -47,7 +47,7 @@
   
 💻 M Y  S T A T S 📊
   
-![moeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeun2&show_icons=true&theme=default)
+![moeun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moeun2&show_icons=true&theme=default)
 
   #
     
